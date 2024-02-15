@@ -1,5 +1,5 @@
 /**
- * @file Aula Prática 2 - Programa 5.ino
+ * @file Aula_Pratica_2_Q5.ino
  * @brief Aula Prática 2 - Programação e Montagem de Hardware na Plataforma Arduino
  * @version 1.0
  * @date 2023-06-04
